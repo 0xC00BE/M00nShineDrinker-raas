@@ -15,15 +15,15 @@
 
   <!-- To make this fit best to your target. Optional -->
   <branding>
-	<targetCompany>Gokstad Akademiet AS</targetCompany>
-	<domain>gokstadakademiet.no</domain>
+	<targetCompany></targetCompany>
+	<domain>miet.no</domain>
   </branding>
   
   <!-- Here goes keys generated in M00nShineDrinkerCryptoGenerator -->
   <!-- DO NOT REUSE KEYS -->
   <keys>
-	<Master>7H15 7H3 K3Y Y0U 5H0U1D F1ND C0N6r47U14710N5</Master>
-	<Client>C113N7 K3Y 0N1Y F0r 3NCrYP710N</Client>
+	<Master></Master>
+	<Client></Client>
   </keys>
   
   <!-- Do not forget to update your wallets, otherwise you won't get paid :D -->
