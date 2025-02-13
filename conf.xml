@@ -15,21 +15,21 @@
 
   <!-- To make this fit best to your target. Optional -->
   <branding>
-	<targetCompany></targetCompany>
-	<domain></domain>
+	<targetCompany>Gokstad Akademiet AS</targetCompany>
+	<domain>gokstadakademiet.no</domain>
   </branding>
   
   <!-- Here goes keys generated in M00nShineDrinkerCryptoGenerator -->
   <!-- DO NOT REUSE KEYS -->
   <keys>
-	<Master></Master>
-	<Client></Client>
+	<Master>7H15 7H3 K3Y Y0U 5H0U1D F1ND C0N6r47U14710N5</Master>
+	<Client>C113N7 K3Y 0N1Y F0r 3NCrYP710N</Client>
   </keys>
   
   <!-- Do not forget to update your wallets, otherwise you won't get paid :D -->
   <payment_types>
 	<wallet type="doge" wallet="" enabled="false" />
-	<wallet type="bitcoin" wallet="" enabled="true" />
+	<wallet type="bitcoin" wallet="1ocRDUw6ZyuX53I2lIwAXMQoDjooyv5mH2" enabled="true" />
 	<wallet type="etereum" wallet="" enabled="false" />
   </payment_types>
   
