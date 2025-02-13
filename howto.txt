@@ -1,0 +1,13 @@
+How to Buy Bitcoin
+Choose a Crypto Exchange: Select a reputable cryptocurrency exchange like Coinbase, Kraken, or Binance.
+Create an Account: Sign up and complete the verification process.
+Deposit Funds: Add funds to your account using a bank transfer, credit card, or other payment methods.
+Buy Bitcoin: Navigate to the Bitcoin trading section, enter the amount you want to buy, and confirm the purchase.
+
+How to Pay to a Bitcoin Wallet
+Get the Recipient's Wallet Address: Obtain the Bitcoin wallet address from the person or entity you want to pay.
+Access Your Wallet: Open your Bitcoin wallet on the exchange or a separate wallet app.
+Send Bitcoin: Enter the recipient's wallet address, the amount to send, and confirm the transaction. You may need to adjust the miner fee based on the transaction speed you prefer.
+
+For more detailed help check this:
+https://www.forbes.com/advisor/investing/cryptocurrency/buying-bitcoin/
