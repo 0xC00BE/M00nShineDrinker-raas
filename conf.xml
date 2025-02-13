@@ -1,42 +1,23 @@
 <Config>
-  <!-- M00nShineDrinker Ransomware -->
-  <!-- WARNING: This configuration file must be in the same directory as the binary file -->
   <version>1.5</version>
-  
-  <!-- Select only the necessary operating systems to reduce size of the in-memory payload -->
   <targets>
 	<os>Windows</os>
 	<os>Linux</os>
   </targets>
-  
-  <!-- Choose your encryption before sending this to your victims -->
   <Encryption method="RSA9332" length=32 />
-
-
-  <!-- To make this fit best to your target. Optional -->
   <branding>
 	<targetCompany></targetCompany>
-	<domain>miet.no</domain>
+	<domain></domain>
   </branding>
-  
-  <!-- Here goes keys generated in M00nShineDrinkerCryptoGenerator -->
-  <!-- DO NOT REUSE KEYS -->
   <keys>
 	<Master></Master>
 	<Client></Client>
   </keys>
-  
-  <!-- Do not forget to update your wallets, otherwise you won't get paid :D -->
   <payment_types>
 	<wallet type="doge" wallet="" enabled="false" />
-	<wallet type="bitcoin" wallet="1ocRDUw6ZyuX53I2lIwAXMQoDjooyv5mH2" enabled="true" />
+	<wallet type="bitcoin" wallet="" enabled="false" />
 	<wallet type="etereum" wallet="" enabled="false" />
   </payment_types>
-  
-  <!-- Add paths which can potentially slow down encryption process -->
   <ExcludeFiles>
-    <path>%SystemRoot%\Windows\*</path>
-	<path>%SystemRoot%\Windows\Temp\n0tepad.exe</path>
-	<path>%SystemRoot%\Windows\Temp\conf.xml</path>
   </ExcludeFiles>
 </Config>
